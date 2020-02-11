@@ -11,7 +11,7 @@ int main(void)
     x = 9.99;
     printf("n为整型变量，x为浮点型变量\n");
     printf("n / 2：%d\n", n / 2);
-    printf("n / 2.0：%d\n", n / 2.0);
+    printf("n / 2.0：%f\n", n / 2.0);
     printf("x/2：%f\n", x / 2);
     printf("x/2.0：%f\n", x / 2.0);
     return 0;
